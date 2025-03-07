@@ -1,0 +1,2 @@
+#trisl
+print("Dom")
